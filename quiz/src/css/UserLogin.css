@@ -1,0 +1,27 @@
+
+
+.form{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.passwordBox{
+    margin-top: 10px;
+}
+
+.container>h1{
+    margin-top: 10px;
+    margin-left:20px;
+    color:grey;
+
+}
+.buttonContainer{
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+
+}
+.formContainer{
+    margin-top: 30px;
+}

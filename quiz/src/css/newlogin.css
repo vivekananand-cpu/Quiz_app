@@ -1,0 +1,17 @@
+.text-center{
+    width: 300px;
+    height: 350px;
+    
+    
+}
+
+.container{
+    width:50%;
+    margin-top: 200px;
+    display: flex;
+    justify-content:space-around;
+   
+  
+    border-radius:5px;
+   
+}
